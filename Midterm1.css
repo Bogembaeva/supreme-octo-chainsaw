@@ -1,0 +1,12 @@
+#Image{
+	position: absolute;
+	right: 10px;
+	top: -50px;
+}
+#Projects{
+	display: flex;
+	justify-content: center;
+}
+#Project-text{
+	padding-top: 170px;
+}
